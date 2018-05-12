@@ -1,0 +1,44 @@
+_repo: Contes-D-Andersen_27142
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Carner, Josep
+    alias: D'Albaflor, Joan
+    birthdate: 1884
+    deathdate: 1971
+    gutenberg_agent_id: '7107'
+    url: http://www.gutenberg.org/2009/agents/7107
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Josep_Carner
+    - http://ca.wikipedia.org/wiki/Josep_Carner_i_Puig-Oriol
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andersen, H. C. (Hans Christian)
+    alias: Andersen, Hans Christian
+    birthdate: 1805
+    deathdate: 1875
+    gutenberg_agent_id: '2298'
+    url: http://www.gutenberg.org/2009/agents/2298
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Christian_Andersen
+description: ''
+gutenberg_issued: '2008-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27142'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fairy tales -- Denmark'
+- !lcsh 'Children''s stories, Danish -- Translations into Catalan'
+tableOfContents: Joan Cristiá Andersen -- Les coses que veié la Lluna -- El rossinyol
+  -- L'aneguet lleig -- El papalló -- El cargol i el roser -- El soldadet de plom
+  -- La princesa de bo de bo -- El vestit nou de l'emperador -- La donzella de la
+  mar.
+title: Contes D'Andersen
+url: http://www.gutenberg.org/ebooks/27142
